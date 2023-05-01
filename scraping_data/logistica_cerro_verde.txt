@@ -1,8 +1,0 @@
-Nombre: Bruno Arcos
-Cargo: MBA | Logistica | SCM | Operaciones Portuarias
- link: https://www.linkedin.com/in/anginson?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAArCDT4Bn6Ne8uPa3KvJ1IROhDoH2a13NJA
-
-Nombre: Paul Delgado Zegarra
-Cargo: Supervisor de Logistica en Sociedad Minera Cerro Verde S.A.A.
- link: https://www.linkedin.com/in/jes%C3%BAsrodrigovillegas-393b4073?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA-m-h8Bm3yN8zKGXIXMXFQX2unoXJj9fkM
-

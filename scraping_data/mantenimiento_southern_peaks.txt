@@ -1,8 +1,0 @@
-Nombre: Vlademir B.
-Cargo: Superintendente de Mantenimiento, Proyectos y Energia
- link: https://www.linkedin.com/in/hanschavez92?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABiejbgBec6CW5qEBubRe98d6CW4zRcOtIE
-
-Nombre: JUAN R ROBLES MEDINA
-Cargo: JEFE DE MANTENIMIENTO GENERAL en Brexia GoldPlata Perú
- link: https://www.linkedin.com/in/rosario-suazo-13300844?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAlBdrcBz7oZ3EsIuKIsS_Q8Uv2EiYtgJdo
-

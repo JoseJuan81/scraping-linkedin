@@ -1,8 +1,0 @@
-Nombre: Rocio Quispe Palian
-Cargo: Logistica Compras en Minera Chinalco Perú S.A.
- link: https://www.linkedin.com/in/ACoAAA1eUNsBUU61mQ8ESEjbkRaGNh6wTLw_pjU?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA1eUNsBUU61mQ8ESEjbkRaGNh6wTLw_pjU
-
-Nombre: Jaime Antonio HUIZA MOYA
-Cargo: Jefe de Logistica en Empresa Administradora Chungar SAC
- link: https://www.linkedin.com/in/darwin-ronal-sucasaca-pilco-608097148?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACObi6gBdwDSHoV6G_PT578TCxUcGqW1SGM
-

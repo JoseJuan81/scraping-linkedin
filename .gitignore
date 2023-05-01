@@ -1,3 +1,5 @@
 secret.txt
 .*.*~
 *.*~
+scraping_data/
+scraping_data/*

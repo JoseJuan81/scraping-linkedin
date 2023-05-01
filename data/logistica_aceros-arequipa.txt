@@ -1,8 +1,0 @@
-Nombre: Carlos Fernandez
-Cargo: jefe logistica acedim en Corp. Aceros Arequipa SA
- link: https://www.linkedin.com/in/carlos-fernandez-7814904b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAqSPVEBEWfS4Phiq_0M59cIrP7vhQScV-M
-
-Nombre: Danny Evaristo Calderón Pacheco
-Cargo: Supervisora Logistica en Corporación Aceros Arequipa
- link: https://www.linkedin.com/search/results/people/headless?currentCompany=%5B3262843%5D&origin=COMPANY_PAGE_CANNED_SEARCH
-

@@ -1,8 +1,0 @@
-Nombre: Luis Santiago Macedo Pacco
-Cargo: Logistica en Cia. de Minas Buenaventura SAA.
- link: https://www.linkedin.com/in/alex-sandro-huaraca-aylas-910657b3?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABgfgVwB0ZFMDtAHxwl_--Dw7TVpGeRyW94
-
-Nombre: kathya Alvarez Zegarra
-Cargo: Analista de Compras y Logistica en Compañía de Minas Buenaventura S.A.A.
- link: https://www.linkedin.com/in/brayan-misael-galarza-esteban-825b828b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABM3jh0BOOlsdd2m_l6454FeCf9mHpFDSEw
-

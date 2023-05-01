@@ -1,8 +1,0 @@
-Nombre: Julio Huamán Eyzaguirre
-Cargo: Planeamiento y Programación/Gestor de Contratos de Servicio/Supervisión/Analista de Condición CBM/Gestor de Paradas de Planta/Confiabilidad
- link: https://www.linkedin.com/in/ACoAAAUvSAYBLS95S0PyN0yu5t2WNTxJYDvGt9I?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAUvSAYBLS95S0PyN0yu5t2WNTxJYDvGt9I
-
-Nombre: Neil Mendoza
-Cargo: Director de Confiabilidad de Gestión de Activos en Compañía de Minas Buenaventura S.A.A.
- link: https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABjtO2YBDnZ6IyHm0IQ5Cq7HpJBYUsXgwCY%22%5D&origin=SHARED_CONNECTIONS_CANNED_SEARCH
-

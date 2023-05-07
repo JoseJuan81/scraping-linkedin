@@ -2,11 +2,9 @@
 python script to get contacts from severals companies using my premium linkedin account
 
 ### How to use
-You need to create a 'secret.txt' file at the root of the directory and add your LinkedIn email and password like this:
+You need to create a 'secret.txt' at the root of the directory and add your LinkedIn email and password like this:
     my@email.com
     my_pass_123456
-
-Probably you need a Premium account because the amount of interactions with LinkedIn page. I didn't know but LinkedIn free account has a limited numbers of search
 
 ### Description in constantes.py
 This file has many important information for the script to work fine:

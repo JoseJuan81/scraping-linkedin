@@ -1,7 +1,7 @@
-/scraping_data/
-/scraping_data/*
 secret.txt
 .*.*~
 *.*~
-scraping_data/
-scraping_data/*
+data/
+data/*
+/data/
+/data/*

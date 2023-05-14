@@ -1,10 +1,10 @@
-selected_positions = ('mantenimiento', 'confiabilidad', 'operaciones', 'compras', 'logistica', 'logística', "reliability", "maintenance", "metalurgia", "metallurgical", "planeamiento")
+selected_positions = ('mantenimiento', 'confiabilidad', 'operaciones', 'compras', 'logistica', 'logística', "reliability", "maintenance", "metalurgia", "metallurgical", "planeamiento", "planner")
 
 wrong_positions = ('electricista', 'electrical', 'instrumentacion', 'instrumentación', 'instrumentation', 'electrico', 'eléctrico')
 
-company_name = 'antapacay'
+company_name = 'southern'
 
-total_pages = 78
+total_pages = 100
 
 main = '//main[@aria-label="Resultados de búsqueda"]'
 ul = '//ul[@class="reusable-search__entity-result-list list-style-none"]'
@@ -25,9 +25,11 @@ html_elements = {
         'employees_page': main + ul + li + employee_div + employee_link,
         'employees_name': main + ul + li + employee_div + employee_name,
         'employees_position': main + ul + li + employee_position,
+        'employees_li': main + ul + li
 }
+
 
 urls = {
     'home':'https://www.linkedin.com',
-    'searching_people': lambda page: f"https://www.linkedin.com/search/results/people/?currentCompany=%5B%223658000%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&page={page}&sid=vx7",
+    'searching_people': lambda page: f"https://www.linkedin.com/search/results/people/?currentCompany=%5B%221382221%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&page={page}&sid=Y~X",
 }

@@ -1,10 +1,10 @@
-selected_positions = ('mantenimiento', 'confiabilidad', 'operaciones', 'compras', 'logistica', 'logística', "reliability", "maintenance", "metalurgia", "metallurgical", "planeamiento", "planner")
+selected_positions = ('mantenimiento', 'confiabilidad', 'operaciones', 'compras', 'logistica', 'logística', "reliability", "maintenance", "metalurgia", "metallurgical", "planeamiento", "planner", "supply")
 
-wrong_positions = ('electricista', 'electrical', 'instrumentacion', 'instrumentación', 'instrumentation', 'electrico', 'eléctrico')
+wrong_positions = ('electricista', 'electrical', 'instrumentacion', 'instrumentación', 'instrumentation', 'electrico', 'eléctrico', 'practicante', 'ambiental')
 
-company_name = 'southern'
+company_name = 'corona'
 
-total_pages = 100
+total_pages = 26
 
 main = '//main[@aria-label="Resultados de búsqueda"]'
 ul = '//ul[@class="reusable-search__entity-result-list list-style-none"]'
@@ -31,5 +31,5 @@ html_elements = {
 
 urls = {
     'home':'https://www.linkedin.com',
-    'searching_people': lambda page: f"https://www.linkedin.com/search/results/people/?currentCompany=%5B%221382221%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&page={page}&sid=Y~X",
+    'searching_people': lambda page: f"https://www.linkedin.com/search/results/people/?currentCompany=%5B%2235504118%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&page={page}&sid=~j2",
 }
